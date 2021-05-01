@@ -1,0 +1,19 @@
+body{
+    background-color: #309d20;
+	  background-image: url("otro.png");
+}
+
+#label-container{
+    background-color: rgb(26, 201, 105);
+    
+    font-style: normal;
+    line-height: 'ConCubrebocas';
+    font: 150%;
+}
+.card-body {
+    color:rgb(197, 21, 124);
+}
+.car-body{
+    background-color: rgb(209, 147, 13);
+}
+
